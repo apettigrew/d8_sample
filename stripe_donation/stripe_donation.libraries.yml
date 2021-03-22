@@ -1,0 +1,9 @@
+stripe_donation:
+  version: 1.x
+  js:
+    js/stripe.checkout.js: {}
+    js/stripe.donation.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings
+    - stripe/stripe

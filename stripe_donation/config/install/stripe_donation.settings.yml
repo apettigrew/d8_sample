@@ -1,0 +1,4 @@
+# Module-specific config options. They can be changed in
+# site settings at /admin/config/api/stripe_donation
+stripe_publishable_key: ''
+welcome_text: 'Thank you for your support! Please select the amount you would like to donate or enter a different amount below:'
